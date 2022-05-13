@@ -7,7 +7,7 @@
   &nbsp;
   &nbsp;
 
-### Connect with me:
+## Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/VishantShah10#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/VishantShah10#gh-dark-mode-only)
