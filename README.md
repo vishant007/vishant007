@@ -5,8 +5,6 @@
 
 - ✉️ You can contact me at [vishant9797@gmail.com](mailto:vishant9797@gmail.com)
 
-### Skills
-
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/VishantShah10#gh-light-mode-only)
