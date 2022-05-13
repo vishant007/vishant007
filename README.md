@@ -15,9 +15,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thevishantshah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thevishantshah/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/hackerrank-light.svg)](https://www.hackerrank.com/vishant9797#gh-light-mode-only)
-[![website](./img/hackerrank-dark.svg)](https://www.hackerrank.com/vishant9797#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 <img align='left' alt = "Vishant's Github stats" src= "https://github-readme-stats.vercel.app/api?username=vishant007&show_icons=true&hide_border=true&theme=tokyonight">
 
