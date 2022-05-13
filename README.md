@@ -44,8 +44,4 @@
 &nbsp;
 <a href="http://www.github.com/vishant007"><img src="https://activity-graph.herokuapp.com/graph?username=vishant007&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph margin-top:10px" /></a>
 
-<a href="http://www.github.com/vishant007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishant007&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" img align="right" /></a>
-
-<a href="http://www.github.com/vishant007"><img src="https://activity-graph.herokuapp.com/graph?username=vishant007&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <br /><br />
