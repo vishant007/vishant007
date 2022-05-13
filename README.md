@@ -16,4 +16,4 @@
 </p>
 <img align='left' alt = "Vishant's Github stats" src= "https://github-readme-stats.vercel.app/api?username=vishant007&show_icons=true&hide_border=true&theme=tokyonight">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant007)](https://github.com/vishant007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant007)](https://github.com/vishant007/github-readme-stats&theme=tokyonight)
