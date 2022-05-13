@@ -40,7 +40,7 @@
 &nbsp;
 &nbsp;
 
-<a href="http://www.github.com/vishant007" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishant007&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vishant007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishant007&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" img align="right" /></a>
 &nbsp;
 &nbsp;
 
