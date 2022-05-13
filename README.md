@@ -15,5 +15,3 @@
 <a href="https://www.hackerrank.com/vishant9797" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="4%" width="4%" /></a>
 </p>
 <img align='left' alt = "Vishant's Github stats" src= "https://github-readme-stats.vercel.app/api?username=vishant007&show_icons=true&hide_border=true">
-
-<img align='left' alt = "Vishant's Github stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishant007&show_icons=true&hide_border=true&count_private=true)">
