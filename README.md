@@ -28,11 +28,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishant007&label=Profile%20views&color=58befe&style=flat" alt="vishant007" /> </p>
+### Badges
+
+ <img src="https://komarev.com/ghpvc/?username=vishant007&label=Profile%20views&color=58befe&style=flat" img-align="left" alt="vishant007" />
 
 <a href="https://github.com/vishant007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishant007&&layout=compact&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/vishant007"><img src="https://github-readme-stats.vercel.app/api?username=vishantoo7&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="kartikp36's GitHub stats" /></a>
+<a href="http://www.github.com/vishant007"><img src="https://github-readme-stats.vercel.app/api?username=vishant007&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishant's GitHub stats" /></a>
 
 <a href="http://www.github.com/vishant007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishant007&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
