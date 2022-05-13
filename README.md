@@ -31,7 +31,7 @@
 &nbsp;
 &nbsp;
 
-<img align='right' alt = "Vishant's Github stats" src= "https://github-readme-stats.vercel.app/api?username=vishant007&show_icons=true&hide_border=true&theme=tokyonight">
+<img align='left' margin-top:20px alt = "Vishant's Github stats" src= "https://github-readme-stats.vercel.app/api?username=vishant007&show_icons=true&hide_border=true&theme=tokyonight">
 &nbsp;
 &nbsp;
 
