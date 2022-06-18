@@ -1,6 +1,10 @@
 <h1 align="center">Hello! I'm Vishant Shah</h1>
 <h3 align="center">Fullstack Web developer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"  align = "center" />  
+</p>
+
 <!-- - 🌐  See my portfolio at https://kartik-p-patel.vercel.app/ -->
 
 - ✉️ You can contact me at [vishant9797@gmail.com](mailto:vishant9797@gmail.com)
@@ -8,7 +12,7 @@
   &nbsp;
   
 <p>
-<img src="https://komarev.com/ghpvc/?username=vishant007&label=Profile%20views&color=58befe&style=flat" img-align="left" alt="vishant007" />
+<img src="https://komarev.com/ghpvc/?username=vishant007&label=Profile%20views&color=58befe&style=flat"  alt="vishant007" />
 </p>
 
 ## Connect with me:
@@ -39,7 +43,8 @@
 
 <br /><br />
 &nbsp;
-
+&nbsp;
+&nbsp;
 
 ## ⚡ GitHub Stats
 
