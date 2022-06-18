@@ -6,6 +6,10 @@
 - ✉️ You can contact me at [vishant9797@gmail.com](mailto:vishant9797@gmail.com)
   &nbsp;
   &nbsp;
+  
+<p>
+<img src="https://komarev.com/ghpvc/?username=vishant007&label=Profile%20views&color=58befe&style=flat" img-align="left" alt="vishant007" />
+</p>
 
 ## Connect with me:
 
@@ -33,11 +37,7 @@
 <img align="left" alt=""  src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img align="left" alt=""  src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
-&nbsp;
 
-## Badges:
-
- <img src="https://komarev.com/ghpvc/?username=vishant007&label=Profile%20views&color=58befe&style=flat" img-align="left" alt="vishant007" />
 
 <a href="https://github.com/vishant007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishant007&&layout=compact&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
