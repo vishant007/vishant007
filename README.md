@@ -6,8 +6,8 @@
 </p>
 
 <!-- - 🌐  See my portfolio at https://kartik-p-patel.vercel.app/ -->
-
-- ✉️ You can contact me at [vishant9797@gmail.com](mailto:vishant9797@gmail.com)
+- Portfolio: https://vishant-n-shah.vercel.app/
+- You can contact me at [vishant9797@gmail.com](mailto:vishant9797@gmail.com)
   &nbsp;
   &nbsp;
   
