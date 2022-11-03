@@ -41,9 +41,6 @@
 <img align="left" alt=""  src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img align="left" alt=""  src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 <br /><br />
 &nbsp;
 &nbsp;
