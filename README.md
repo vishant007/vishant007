@@ -2,8 +2,9 @@
 <h3 align="center">Fullstack Web developer</h3>
 
 <p align="center">
-  <img src="https://github.com/vishant007/vishant007/blob/main/g1.jpeg" alt="Coder GIF" width="300"  align = "center" />  
+  <img src="https://github.com/vishant007/vishant007/blob/main/g1.jpeg" width="350" title="hover text">
 </p>
+
 
 
 - Portfolio: https://vishant-n-shah.vercel.app/
