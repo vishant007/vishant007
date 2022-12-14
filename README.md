@@ -5,7 +5,7 @@
   <img src="https://github.com/vishant007/vishant007/blob/main/gif2.gif" alt="Coder GIF" width="300"  align = "center" />  
 </p>
 
-<!-- - 🌐  See my portfolio at https://kartik-p-patel.vercel.app/ -->
+
 - Portfolio: https://vishant-n-shah.vercel.app/
 - You can contact me at [vishant9797@gmail.com](mailto:vishant9797@gmail.com)
   &nbsp;
