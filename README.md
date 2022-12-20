@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Vishant Shah</h1>
 <h3 align="center">Fullstack Web developer</h3>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="" width="350" title="hover text">
-</p> -->
+</p> 
 
 
 
