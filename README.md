@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Web developer</h3>
 
  <p align="center">
-  <img src="" width="350" title="hover text" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" title="hover text" align="center">
 </p> 
 
 
