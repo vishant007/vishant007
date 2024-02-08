@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
  <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" title="hover text" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBmcGZkdWNuM2dnYzlrbXl3ZnRubThjb2c0d280am84dnpreG1idyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tcnS4WRhVjpNl6lTFQ/giphy.gif" width="350" title="hover text" align="center">
 </p> 
 
 
