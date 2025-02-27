@@ -24,7 +24,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thevishantshah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thevishantshah/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 ## Languages and Tools:
 
 <img align="left" alt=""  src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -44,6 +43,10 @@
 <img align="left" alt=""  src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt=""  src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img align="left" alt=""  src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img align="left" alt=""  src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img align="left" alt=""  src = "https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img align="left" alt=""  src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="left" alt=""  src = "https://img.shields.io/badge/Service_Fabric-FF4500?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 <br /><br />
 &nbsp;
